@@ -6,7 +6,7 @@ This is a repository that contains a Colab notebook for an RAG-based assistant, 
 
 This repository contains:
 - A Colab notebook
-- A database (in PDF format) containing all the refrence pdfs provided in the ps.
+- A database (in PDF format) containing all the refrence links coverted to pdfs provided in the ps.
 
 ### To run this:
 1. Copy the notebook to Colab.
