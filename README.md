@@ -1,2 +1,2 @@
-# RAG_Assistant_for_PS
+# RAG_Assistant_for_Pathway_PS
 this is a repository which contains collab notebook for RAG based assistant and all the refrence links converted to pdfs (and vector embedded database later)
