@@ -26,6 +26,7 @@ An embedded vector database will be uploaded soon. For now, all PDFs should be u
 
 ```plaintext
 Query ---------------------------> Data Augmentation ------> LLM ---------> Final Response
-       |                                 |
+  ^                                     ^
+  |                                     |
 Search Engine --> Vector Database --> Retrieved Data <--- Embedding Pipeline <--- Database
 
